@@ -1,3 +1,20 @@
+
+To use 
+• embed https://interactive.guim.co.uk/2016/11/harry-potter-divider/boot.js in a composer page
+
+• then in the data-alt field of the embed add one of the following to choose which graphic you want to display in your divider
+
+hat
+wand
+train
+school
+owl
+snitch
+glasses
+
+
+
+
 Guardian interactive ES6 template
 =================================
 
